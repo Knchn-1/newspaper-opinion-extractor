@@ -1,0 +1,6 @@
+pytesseract
+pdf2image
+pillow
+python-docx
+transformers
+torch
